@@ -3,7 +3,7 @@
 Steps to deploy this stack
 1. Run the below command in the ec2 instance
 
-curl -LO https://raw.githubusercontent.com/biradarganesh5/iamopstag/main/deploy_autotag.sh
+    curl -LO https://raw.githubusercontent.com/biradarganesh5/iamopstag/main/deploy_autotag.sh
 
 
 2. Make a cloudtrail and a bucket in us-east-1
