@@ -1,5 +1,7 @@
 # IAMOPS TAG
 
+Note - This stack should be deployed using a ec2 instance in the same region and not AWS Cloudshell console.
+
 Steps to deploy this stack
 1. Run the below command in the ec2 instance
 
